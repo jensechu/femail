@@ -21,6 +21,12 @@ body {
 	height: 100%;
 }
 
+dl {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
 
 /* ------------------------------------- 
 		ELEMENTS 
